@@ -1,0 +1,22 @@
+DisplayName,Username,Department,JobTitle,EmployeeType
+Alex Rivera,alex.rivera,Radiology,CT Technologist,Employee
+Sarah Chen,sarah.chen,Radiology,MRI Technologist,Employee
+Michael Torres,michael.torres,Radiology,Radiology Manager,Employee
+Emily Davis,emily.davis,Nursing,Registered Nurse,Employee
+Jennifer Smith,jennifer.smith,Nursing,Charge Nurse,Employee
+Robert Wilson,robert.wilson,Nursing,Nurse Manager,Employee
+Priya Shah,priya.shah,Physicians,Physician,Employee
+David Kim,david.kim,Physicians,Physician,Employee
+Rachel Brown,rachel.brown,Physicians,Medical Director,Employee
+Jordan Lee,jordan.lee,HIM,HIM Specialist,Employee
+Taylor Martin,taylor.martin,HIM,Medical Records Analyst,Employee
+Casey White,casey.white,HIM,HIM Manager,Employee
+Morgan Clark,morgan.clark,Billing,Billing Specialist,Employee
+Ashley Hall,ashley.hall,Billing,Coding Specialist,Employee
+Daniel Young,daniel.young,Billing,Billing Manager,Employee
+Chris Adams,chris.adams,IT,Help Desk Technician,Employee
+Ryan Walker,ryan.walker,IT,System Administrator,Employee
+Jessica Moore,jessica.moore,IT,IT Manager,Employee
+Sam Carter,sam.carter,Contractors,Vendor Support,Contractor
+Pat Johnson,pat.johnson,Contractors,Consultant,Contractor
+Riley Evans,riley.evans,Students,Radiology Student,Student
