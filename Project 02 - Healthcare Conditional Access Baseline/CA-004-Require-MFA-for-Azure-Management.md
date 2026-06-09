@@ -61,4 +61,10 @@ Protecting Azure management interfaces helps reduce the risk of unauthorized adm
 
 ## Screenshots
 
-Placeholder for policy screenshots.
+### Policy Overview
+
+![CA-004 Policy Overview](Screenshots/04-ca-azure-management-overview.png)
+
+### Target Resources Configuration
+
+![CA-004 Target Resources](Screenshots/04-ca-azure-management-target-resources.png)

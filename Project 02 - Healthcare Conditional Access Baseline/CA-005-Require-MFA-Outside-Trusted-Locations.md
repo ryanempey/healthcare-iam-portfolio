@@ -71,4 +71,10 @@ Named Locations should be reviewed regularly to ensure accuracy.
 
 ## Screenshots
 
-Placeholder for policy screenshots.
+### Policy Overview
+
+![CA-005 Policy Overview](Screenshots/05-ca-trusted-locations-overview.png)
+
+### Named Locations Configuration
+
+![CA-005 Named Locations](Screenshots/05-ca-trusted-locations-named-locations.png)

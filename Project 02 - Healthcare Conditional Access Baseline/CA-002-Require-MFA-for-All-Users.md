@@ -56,4 +56,10 @@ Break Glass accounts remain excluded to ensure emergency access during outages o
 
 ## Screenshots
 
-Placeholder for policy screenshots.
+### Policy Overview
+
+![CA-002 Policy Overview](Screenshots/02-ca-all-users-mfa-overview.png)
+
+### Grant Controls
+
+![CA-002 Grant Controls](Screenshots/02-ca-all-users-mfa-grant-controls.png)

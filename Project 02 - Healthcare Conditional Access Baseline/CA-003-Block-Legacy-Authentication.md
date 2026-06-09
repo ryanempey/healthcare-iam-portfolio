@@ -75,4 +75,10 @@ Policies should initially be deployed in Report-only mode to identify affected s
 
 ## Screenshots
 
-Placeholder for policy screenshots.
+### Policy Overview
+
+![CA-003 Policy Overview](Screenshots/03-ca-block-legacy-auth-overview.png)
+
+### Client Applications Configuration
+
+![CA-003 Client Applications](Screenshots/03-ca-block-legacy-auth-client-apps.png)

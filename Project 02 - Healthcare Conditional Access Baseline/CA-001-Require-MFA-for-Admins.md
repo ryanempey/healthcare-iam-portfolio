@@ -54,4 +54,10 @@ All privileged administrators must successfully complete MFA before accessing Mi
 
 ## Screenshots
 
-Placeholder for policy screenshots.
+### Policy Overview
+
+![CA-001 Policy Overview](Screenshots/01-ca-admin-mfa-overview.png)
+
+### Grant Controls
+
+![CA-001 Grant Controls](Screenshots/01-ca-admin-mfa-grant-controls.png)
